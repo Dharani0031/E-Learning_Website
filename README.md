@@ -11,8 +11,9 @@ LIVE LINK:https://cheery-otter-cd2193.netlify.app/
                      
 ![image](https://github.com/Dharani0031/Team_Technocrats/assets/150164750/f4fc2871-722b-4c61-9006-6d459915924b)
 
-#Supported Language:
+#Supported Language:```
               - HTML
               - CSS
               - JS
+```
               
