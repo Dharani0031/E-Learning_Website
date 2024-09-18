@@ -8,9 +8,11 @@ LIVE LINK:https://cheery-otter-cd2193.netlify.app/
                       To become a instructor in our website there is a apply link click and fill the required details and submit.Once the application you can join a instructor in our learning community.
                       Our website shows a studesnts review and ratings about the courses.
                      This website contain chatbot at the last, the user can ask the quieries to the AI chatbot.
+                     
 ![image](https://github.com/Dharani0031/Team_Technocrats/assets/150164750/f4fc2871-722b-4c61-9006-6d459915924b)
 
 #Supported Language:
-              HTML
-              CSS
-              JS
+              - HTML
+              - CSS
+              - JS
+              
